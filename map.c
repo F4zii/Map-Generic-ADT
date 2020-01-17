@@ -381,4 +381,3 @@ static void mapUpdateAfterRemove(Map map, int index) {
         map->data[i] = map->data[i+1];
     }
 }
-// todo mapClear size check
